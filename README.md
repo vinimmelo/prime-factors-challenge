@@ -28,7 +28,7 @@ Follow this simple steps:
 3. `python3 -m virtualenv venv`
 4. `source venv/bin/activate` [May change in Windows environment]
 5. `pip install -r requirements.txt`
-3. `python main.py`
+6. `python main.py <number>` Example: `python main.py 100`
 
 ## Unit Test
 
